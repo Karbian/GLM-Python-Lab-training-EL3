@@ -1,7 +1,0 @@
-{
-  "name": "glm-grade9-python-training",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Independent Evidence 3 study material for Grade 9",
-  "scripts": {"test": "node --test tests/content.test.mjs"}
-}
